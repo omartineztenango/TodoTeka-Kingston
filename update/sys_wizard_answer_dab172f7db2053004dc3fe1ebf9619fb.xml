@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>TodoTeka Pedidos</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>TodoTeka Pedidos</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d5a3aa77b8130300651775b34d8f5119</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-06 23:30:06</sys_created_on>
+        <sys_id>dab172f7db2053004dc3fe1ebf9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TodoTeka Pedidos</sys_name>
+        <sys_package display_value="TodoTeka" source="x_196785_todoteka">87f5627fdbec13004dc3fe1ebf961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TodoTeka">87f5627fdbec13004dc3fe1ebf961935</sys_scope>
+        <sys_update_name>sys_wizard_answer_dab172f7db2053004dc3fe1ebf9619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-06 23:30:06</sys_updated_on>
+        <table/>
+        <target_url>x_196785_todoteka_pedidos.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Cuchillos">875a2633db2053004dc3fe1ebf9619ca</sc_cat_item>
+        <sc_category display_value="Cocina">df2ae233db2053004dc3fe1ebf961913</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-06 22:58:10</sys_created_on>
+        <sys_id>ae6a6633db2053004dc3fe1ebf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cocina.Cuchillos</sys_name>
+        <sys_package display_value="TodoTeka" source="x_196785_todoteka">87f5627fdbec13004dc3fe1ebf961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TodoTeka">87f5627fdbec13004dc3fe1ebf961935</sys_scope>
+        <sys_update_name>sc_cat_item_category_ae6a6633db2053004dc3fe1ebf96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-06 22:58:10</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
