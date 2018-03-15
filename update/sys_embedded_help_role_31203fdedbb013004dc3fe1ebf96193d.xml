@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_196785_todoteka.requerir_todoteka_user" name="x_196785_todoteka.requerir_todoteka_user">3d203fdedbb013004dc3fe1ebf96193a</role>
+        <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-14 22:27:40</sys_created_on>
