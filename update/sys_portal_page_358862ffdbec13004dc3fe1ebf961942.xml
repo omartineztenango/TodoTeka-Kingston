@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2018-03-07 20:05:12">
+<record_update node_type="sys_portal_page" unload_date="2018-03-15 00:11:07">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
         <order/>
-        <read_roles/>
-        <roles/>
+        <read_roles>x_196785_todoteka.solicitudes_user</read_roles>
+        <roles>x_196785_todoteka.todoteka_pedidos_user</roles>
         <selectable>false</selectable>
         <sys_class_name>sys_portal_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -12,23 +12,23 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>358862ffdbec13004dc3fe1ebf961942</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>catalog_todoteka</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Catalogo TodoTeka</sys_name>
         <sys_overrides/>
         <sys_package display_value="TodoTeka" source="x_196785_todoteka">87f5627fdbec13004dc3fe1ebf961935</sys_package>
         <sys_policy/>
         <sys_scope display_value="TodoTeka">87f5627fdbec13004dc3fe1ebf961935</sys_scope>
         <sys_update_name>sys_portal_page_358862ffdbec13004dc3fe1ebf961942</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-06 22:49:55</sys_updated_on>
-        <title>catalog_todoteka</title>
-        <user/>
+        <sys_updated_on>2018-03-07 21:40:08</sys_updated_on>
+        <title>Catalogo TodoTeka</title>
+        <user display_value="Inquilino La Cité">7e826bf03710200044e0bfc8bcbe5df7</user>
         <view>catalog_todoteka</view>
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">
                 <dropzone>dropzone1</dropzone>
                 <offset>0</offset>
-                <page display_value="catalog_todoteka">358862ffdbec13004dc3fe1ebf961942</page>
+                <page display_value="Catalogo TodoTeka">358862ffdbec13004dc3fe1ebf961942</page>
                 <summary/>
                 <sys_created_by>admin</sys_created_by>
                 <sys_created_on>2018-03-06 23:12:20</sys_created_on>
@@ -163,7 +163,7 @@
             <sys_portal action="INSERT_OR_UPDATE">
                 <dropzone>dropzone999</dropzone>
                 <offset>0</offset>
-                <page display_value="catalog_todoteka">358862ffdbec13004dc3fe1ebf961942</page>
+                <page display_value="Catalogo TodoTeka">358862ffdbec13004dc3fe1ebf961942</page>
                 <summary/>
                 <sys_created_by>admin</sys_created_by>
                 <sys_created_on>2018-03-06 23:12:20</sys_created_on>
@@ -298,7 +298,7 @@
             <sys_portal action="INSERT_OR_UPDATE">
                 <dropzone>dropzone2</dropzone>
                 <offset>0</offset>
-                <page display_value="catalog_todoteka">358862ffdbec13004dc3fe1ebf961942</page>
+                <page display_value="Catalogo TodoTeka">358862ffdbec13004dc3fe1ebf961942</page>
                 <summary/>
                 <sys_created_by>admin</sys_created_by>
                 <sys_created_on>2018-03-06 23:12:20</sys_created_on>

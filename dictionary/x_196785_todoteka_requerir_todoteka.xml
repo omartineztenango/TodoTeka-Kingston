@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Requerir TodoTeka" max_length="40" name="x_196785_todoteka_requerir_todoteka" type="collection">
+        <element label="Catalog" max_length="32" name="catalog" reference="sc_catalog" type="reference"/>
+        <element label="Artículo" max_length="32" name="item" reference="sc_cat_item" type="reference"/>
+    </element>
+</database>

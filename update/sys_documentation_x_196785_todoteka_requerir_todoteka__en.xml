@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Requerir TodoTeka" language="en" table="x_196785_todoteka_requerir_todoteka">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Requerir TodoTeka</label>
+            <language>en</language>
+            <name>x_196785_todoteka_requerir_todoteka</name>
+            <plural>Requerir TodoTekas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 22:27:41</sys_created_on>
+            <sys_id>46203fdedbb013004dc3fe1ebf9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requerir TodoTeka</sys_name>
+            <sys_package display_value="TodoTeka" source="x_196785_todoteka">87f5627fdbec13004dc3fe1ebf961935</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TodoTeka">87f5627fdbec13004dc3fe1ebf961935</sys_scope>
+            <sys_update_name>sys_documentation_x_196785_todoteka_requerir_todoteka__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 22:27:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -30,6 +30,7 @@
         <chunk_size_bytes>734003</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>desktop_image</file_name>
         <image_height>150</image_height>
         <image_width>150</image_width>

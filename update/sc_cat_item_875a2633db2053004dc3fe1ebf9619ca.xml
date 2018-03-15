@@ -108,6 +108,7 @@
         <chunk_size_bytes>734003</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>picture</file_name>
         <image_height>529</image_height>
         <image_width>793</image_width>
